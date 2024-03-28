@@ -81,7 +81,7 @@ On macOS, open the disk image and drag Spyder to your :guilabel:`Applications` f
 
 .. _Windows: https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_64bit_full.exe
 .. _macOS M1: https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_arm64.dmg
-.. _macOS Intel: https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_x86_64.dmg
+.. _macOS Intel: https://github.com/spyder-ide/spyder/releases/latest/download/Spyder.dmg
 
 .. note::
 
@@ -452,7 +452,7 @@ Additional help
 
 .. rst-class:: fasb fa-first-aid
 
-*Run in to a problem installing or running Spyder?* Read our `Troubleshooting Guide and FAQ`_.
+*Run in to a problem installing or running Spyder?* Read our :ref:`Troubleshooting Guide <troubleshooting-first-steps>`.
 
 .. rst-class:: fasb fa-globe
 
@@ -478,7 +478,6 @@ Additional help
 
 *Seeking personalized help from expert Spyder consultants?* Visit `OpenTeams`_.
 
-.. _Troubleshooting Guide and FAQ: https://github.com/spyder-ide/spyder/wiki/Troubleshooting-Guide-and-FAQ
 .. _main website: https://www.spyder-ide.org/
 .. _Github repository: https://github.com/spyder-ide/spyder/
 .. _Github wiki: https://github.com/spyder-ide/spyder/wiki
